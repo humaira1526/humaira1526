@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @humaira1526
+- 👀 I’m interested in programming
+- 🌱 I’m currently majoring in computer science
